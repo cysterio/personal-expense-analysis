@@ -22,5 +22,11 @@ The dataset contains daily expense records including:
 - Matplotlib & Seaborn
 - Google Colab
 
-## Conclusion
+### Dashboard Summary
+- Total spending: ₹3589 out of a ₹5000 budget, indicating budget compliance.
+- Shopping dominates overall expenditure, contributing ₹1900 of total spend.
+- Average daily spending is approximately ₹598, representing the daily burn rate.
+- Shopping is identified as the primary financial risk due to its disproportionate contribution.
+
+ ## Conclusion
 The analysis shows that while daily expenses are mostly small, discretionary spending dominates overall costs. Controlling shopping frequency can significantly improve budgeting.
